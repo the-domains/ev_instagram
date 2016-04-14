@@ -1,0 +1,28 @@
+name: ev_instagram
+favicon: null
+layout_spectrum: 0.01779016014188528
+typography_spectrum: 0.5380874974653125
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.694351043086499
+  lightness: 0.02499204152263701
+  saturation: 0.555867865215987
+  rhythmicContrast: 0.2064330151770264
+purpose: []
